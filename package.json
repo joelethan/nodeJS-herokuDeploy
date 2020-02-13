@@ -1,0 +1,23 @@
+{
+  "name": "nodeJS-herokuDeploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelethan/nodeJS-herokuDeploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelethan/nodeJS-herokuDeploy/issues"
+  },
+  "homepage": "https://github.com/joelethan/nodeJS-herokuDeploy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
